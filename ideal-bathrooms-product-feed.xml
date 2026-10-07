@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Ideal Bathrooms Product Feed (Sample)</title>
+    <link>https://www.idealbathrooms.com</link>
+    <description>Sample product feed for Ideal Bathrooms. All items set to in stock.</description>
+
+    <item>
+      <g:id>71479</g:id>
+      <g:title>Aqualisa S2 Smart Shower</g:title>
+      <g:description>Aqualisa S2 smart shower with digital control, precise temperature and flow settings and a clean modern finish. Ideal for upgrading a family bathroom or en suite.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/s2chcu-71479</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/71479_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>949.00 GBP</g:price>
+      <g:brand>Aqualisa</g:brand>
+      <g:mpn>S2CHCU</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Showering &gt; Complete Showers</g:product_type>
+    </item>
+
+    <item>
+      <g:id>39424</g:id>
+      <g:title>Ideal Standard ALU+ Shower</g:title>
+      <g:description>Ideal Standard ALU+ complete shower system made from aluminium, with a lightweight, durable build and contemporary styling.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/showering/complete-showers/bd579xg-39424</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/39424_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>699.00 GBP</g:price>
+      <g:brand>Ideal Standard</g:brand>
+      <g:mpn>BD579XG</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Showering &gt; Complete Showers</g:product_type>
+    </item>
+
+    <item>
+      <g:id>40894</g:id>
+      <g:title>Mira Sport 9.0kW Electric Shower</g:title>
+      <g:description>Mira Sport 9.0kW electric shower. Reliable, easy to use and heats water on demand, so there is no need for a hot water tank.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/showering/electric-showers/11746821-40894</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/40894_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>229.00 GBP</g:price>
+      <g:brand>Mira</g:brand>
+      <g:mpn>11746821</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Showering &gt; Electric Showers</g:product_type>
+    </item>
+
+    <item>
+      <g:id>67952</g:id>
+      <g:title>Roman Haven6 Slider Shower Door</g:title>
+      <g:description>Roman Haven6 sliding shower door with 6mm safety glass and smooth running slider. A space saving choice for alcove showers.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/showering/shower-doors/h3s12cs-67952</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/67952_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>499.00 GBP</g:price>
+      <g:brand>Roman</g:brand>
+      <g:mpn>H3S12CS</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Showering &gt; Shower Doors</g:product_type>
+    </item>
+
+    <item>
+      <g:id>65599</g:id>
+      <g:title>Wirquin Slim+ ABS Shower Waste</g:title>
+      <g:description>Wirquin Slim+ low profile ABS shower waste, designed for low level shower trays with an easy clean, high flow design.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/showering/shower-tray-accessories/30723374-65599</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/65599_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>34.00 GBP</g:price>
+      <g:brand>Wirquin</g:brand>
+      <g:mpn>30723374</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Showering &gt; Shower Tray Accessories</g:product_type>
+    </item>
+
+    <item>
+      <g:id>65812</g:id>
+      <g:title>Carron Highgate Carronite Freestanding Bath</g:title>
+      <g:description>Carron Highgate freestanding bath made from Carronite, a reinforced material that is stronger and warmer to the touch than standard acrylic. A statement centrepiece for any bathroom.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/baths/free-standing-baths/02541-65812</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/65812_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1299.00 GBP</g:price>
+      <g:brand>Carron</g:brand>
+      <g:mpn>02541</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Baths &gt; Freestanding Baths</g:product_type>
+    </item>
+
+    <item>
+      <g:id>43608</g:id>
+      <g:title>Kaldewei Saniform Plus 373-1 Steel Bath</g:title>
+      <g:description>Kaldewei Saniform Plus 373-1 steel enamel bath. Hard wearing, scratch resistant and built to last, with a simple single ended design.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/baths/steel-baths/112600010001-43608</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/43608_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>389.00 GBP</g:price>
+      <g:brand>Kaldewei</g:brand>
+      <g:mpn>112600010001</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Baths &gt; Steel Baths</g:product_type>
+    </item>
+
+    <item>
+      <g:id>35418</g:id>
+      <g:title>Scudo S6 Grid Bath Screen</g:title>
+      <g:description>Scudo S6 grid bath screen with 6mm safety glass and a black grid pattern for an industrial look over a shower bath.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/baths/bath-screens/gridbathscreen-35418</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/35418_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>219.00 GBP</g:price>
+      <g:brand>Scudo</g:brand>
+      <g:mpn>GRIDBATHSCREEN</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Baths &gt; Bath Screens</g:product_type>
+    </item>
+
+    <item>
+      <g:id>63528</g:id>
+      <g:title>Duravit DuraPoint Toilet Pan</g:title>
+      <g:description>Duravit DuraPoint toilet pan with clean, modern lines. A quality, great value option from one of Europe's leading sanitaryware brands.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/toilets/toilet-pan/2011090000-63528</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/63528_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>249.00 GBP</g:price>
+      <g:brand>Duravit</g:brand>
+      <g:mpn>2011090000</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Toilets &gt; Toilet Pan Only</g:product_type>
+    </item>
+
+    <item>
+      <g:id>39761</g:id>
+      <g:title>Geberit AquaClean Alba Shower Toilet</g:title>
+      <g:description>Geberit AquaClean Alba shower toilet combining a WC with warm water washing at the touch of a button. Rimless design for easy cleaning.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/toilets/shower-toilets/146350011-39761</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/39761_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1199.00 GBP</g:price>
+      <g:brand>Geberit</g:brand>
+      <g:mpn>146350011</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Toilets &gt; Shower Toilets</g:product_type>
+    </item>
+
+    <item>
+      <g:id>71781</g:id>
+      <g:title>Geberit Aniara 2-Drawer Basin Unit</g:title>
+      <g:description>Geberit Aniara wall hung basin unit with two soft close drawers, giving generous storage with a floating, easy clean look.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/furniture/wall-hung-vanity-units/510068002-71781</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/71781_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>879.00 GBP</g:price>
+      <g:brand>Geberit</g:brand>
+      <g:mpn>510068002</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Furniture &gt; Wall Hung Vanity Units</g:product_type>
+    </item>
+
+    <item>
+      <g:id>27464</g:id>
+      <g:title>Geberit Selnova Square Basin Unit</g:title>
+      <g:description>Geberit Selnova Square wall hung basin unit. Simple, practical storage with a square basin, ideal for family bathrooms.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/furniture/wall-hung-vanity-units/501238001-27464</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/27464_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>459.00 GBP</g:price>
+      <g:brand>Geberit</g:brand>
+      <g:mpn>501238001</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Furniture &gt; Wall Hung Vanity Units</g:product_type>
+    </item>
+
+    <item>
+      <g:id>64992</g:id>
+      <g:title>Swan Pagoda 800mm Basin Unit w/ 2 Drawers &amp; Solid Wood Handle, Light Oak</g:title>
+      <g:description>Swan Pagoda 800mm wall hung basin unit with two drawers and a solid wood handle in a light oak finish. Warm, natural styling with plenty of storage.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/furniture/wall-hung-vanity-units/swfu088-64992</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/64992_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>561.00 GBP</g:price>
+      <g:brand>Swan</g:brand>
+      <g:mpn>SWFU088</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Furniture &gt; Wall Hung Vanity Units</g:product_type>
+    </item>
+
+    <item>
+      <g:id>64990</g:id>
+      <g:title>Swan Pagoda 1600mm x 350mm Tall Unit w/ 1 Door &amp; Solid Wood Handle, Light Oak</g:title>
+      <g:description>Swan Pagoda tall storage unit with one door and a solid wood handle in light oak. Pairs with the Pagoda basin unit for a matching look.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/furniture/cabinets-storage/swfu090-64990</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/64990_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>468.00 GBP</g:price>
+      <g:brand>Swan</g:brand>
+      <g:mpn>SWFU090</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Furniture &gt; Cabinets &amp; Storage</g:product_type>
+    </item>
+
+    <item>
+      <g:id>42979</g:id>
+      <g:title>Swan Oxley Wall Mounted Basin Unit</g:title>
+      <g:description>Swan Oxley wall mounted basin unit with a clean, contemporary design that keeps the floor clear and the room feeling bigger.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/furniture/wall-hung-vanity-units/swfu061-42979</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/42979_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>389.00 GBP</g:price>
+      <g:brand>Swan</g:brand>
+      <g:mpn>SWFU061</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Furniture &gt; Wall Hung Vanity Units</g:product_type>
+    </item>
+
+    <item>
+      <g:id>67673</g:id>
+      <g:title>Scudo Bota 1000mm Freestanding Vanity Unit, Green</g:title>
+      <g:description>Scudo Bota 1000mm freestanding vanity unit in green. A bold colour statement with generous storage for larger bathrooms.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/furniture/freestanding-vanity-units/bota-1000-green-67673</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/67673_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>749.00 GBP</g:price>
+      <g:brand>Scudo</g:brand>
+      <g:mpn>BOTA-1000-GREEN</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Furniture &gt; Freestanding Vanity Units</g:product_type>
+    </item>
+
+    <item>
+      <g:id>41440</g:id>
+      <g:title>Tavistock Arlington 800mm Freestanding Vanity Unit</g:title>
+      <g:description>Tavistock Arlington 800mm freestanding vanity unit with classic styling and practical storage.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/furniture/freestanding-vanity-units/arl8fvrg-41440</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/41440_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>599.00 GBP</g:price>
+      <g:brand>Tavistock</g:brand>
+      <g:mpn>ARL8FVRG</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Furniture &gt; Freestanding Vanity Units</g:product_type>
+    </item>
+
+    <item>
+      <g:id>42925</g:id>
+      <g:title>Swan Glebe 810mm x 480mm 1 Tap Hole Ceramic Washbasin</g:title>
+      <g:description>Swan Glebe 810mm ceramic washbasin with a single tap hole. Easy to clean and suits a wide range of vanity units.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/basins/basin-only/swfu011-42925</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/42925_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>166.00 GBP</g:price>
+      <g:brand>Swan</g:brand>
+      <g:mpn>SWFU011</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Basins &gt; Basin Only</g:product_type>
+    </item>
+
+    <item>
+      <g:id>42826</g:id>
+      <g:title>Swan Linford Electroplated Mini Mono Basin Mixer w/ Pop Up Waste, Black</g:title>
+      <g:description>Swan Linford mini mono basin mixer in black with a pop up waste included. A compact tap that suits cloakrooms and smaller basins.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/taps/basin-taps/swbr050-42826</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/42826_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>57.00 GBP</g:price>
+      <g:brand>Swan</g:brand>
+      <g:mpn>SWBR050</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Taps &gt; Basin Taps</g:product_type>
+    </item>
+
+    <item>
+      <g:id>42819</g:id>
+      <g:title>Swan Hazeley Wall Mounted Basin Mixer</g:title>
+      <g:description>Swan Hazeley wall mounted basin mixer, freeing up space around the basin for a clean, minimal look.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/taps/basin-taps/swbr035-42819</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/42819_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.00 GBP</g:price>
+      <g:brand>Swan</g:brand>
+      <g:mpn>SWBR035</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Taps &gt; Basin Taps</g:product_type>
+    </item>
+
+    <item>
+      <g:id>65588</g:id>
+      <g:title>Wirquin Neo Air Basin Trap</g:title>
+      <g:description>Wirquin Neo Air basin trap with anti siphon technology to prevent gurgling and odours. Quick and easy to fit.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/taps/wastes/30722169-65588</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/65588_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19.00 GBP</g:price>
+      <g:brand>Wirquin</g:brand>
+      <g:mpn>30722169</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Taps &gt; Wastes</g:product_type>
+    </item>
+
+    <item>
+      <g:id>43060</g:id>
+      <g:title>Swan Campbell Straight 1200 x 600mm Towel Warmer, Matt Black</g:title>
+      <g:description>Swan Campbell straight towel warmer in matt black, 1200mm x 600mm. Keeps towels warm and dry while adding a modern accent.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/towel-warmers/towel-warmers/swtw023-43060</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/43060_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>99.00 GBP</g:price>
+      <g:brand>Swan</g:brand>
+      <g:mpn>SWTW023</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Towel Warmers</g:product_type>
+    </item>
+
+    <item>
+      <g:id>73007</g:id>
+      <g:title>Airflow QuietAir QT120T Bathroom Extractor Fan</g:title>
+      <g:description>Airflow QuietAir QT120T bathroom extractor fan with a timer. Very quiet running and effective moisture removal to help prevent condensation and mould.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/accessories/bathroom-extractor-fans/9041498-73007</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/73007_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.00 GBP</g:price>
+      <g:brand>Airflow</g:brand>
+      <g:mpn>9041498</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Accessories &gt; Bathroom Extractor Fans</g:product_type>
+    </item>
+
+    <item>
+      <g:id>48778</g:id>
+      <g:title>Neptune 1000mm x 2400mm Grey Wall Panel</g:title>
+      <g:description>Neptune 1000mm x 2400mm waterproof wall panel in grey. A grout free alternative to tiles that is quick to fit and easy to clean.</g:description>
+      <g:link>https://www.idealbathrooms.com/products/wall-and-floor-panels/wall-panelling/4010040080-48778</g:link>
+      <g:image_link>https://www.idealbathrooms.com/images/content/products/48778_1_640x640.jpg</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.00 GBP</g:price>
+      <g:brand>Neptune</g:brand>
+      <g:mpn>4010040080</g:mpn>
+      <g:condition>new</g:condition>
+      <g:product_type>Wall &amp; Floor Panels &gt; Wall Panelling</g:product_type>
+    </item>
+
+  </channel>
+</rss>
